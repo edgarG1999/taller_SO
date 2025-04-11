@@ -114,3 +114,14 @@ To github.com:edgarG1999/taller_SO.git
 [2025-04-11 09:39:04] Proceso completado. Estado: 0
 [2025-04-11 09:40:01] Iniciando proceso de backup y commit...
 [2025-04-11 09:40:01] Backup creado: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094001.tar.gz
+Desde github.com:edgarG1999/taller_SO
+ * branch            master     -> FETCH_HEAD
+error: no se puede rebase: Tienes cambios sin marcar.
+error: Por favor, confírmalos o guárdalos.
+To github.com:edgarG1999/taller_SO.git
+   86ad082..e4fa1f2  master -> master
+[2025-04-11 09:40:05] Cambios sincronizados con GitHub
+[2025-04-11 09:40:05] Proceso completado. Estado: 0
+[2025-04-11 09:41:01] Iniciando proceso de backup y commit...
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup: el fichero cambió mientras se estaba leyendo
+[2025-04-11 09:41:01] Error al crear el backup
