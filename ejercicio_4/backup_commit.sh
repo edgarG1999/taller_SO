@@ -41,11 +41,12 @@ if [ -n "$(git status --porcelain)" ]; then
 
     # Autenticación SSH (asegúrate de que la clave esté configurada)
     eval "$(ssh-agent -s)" >> "$LOG_FILE" 2>&1
-    ssh-add /home/edgar/.ssh/id_rsa >> "$LOG_FILE" 2>&1
+    ssh-add /home/edgar/.ssh/id_ed25519 >> "$LOG_FILE" 2>&1
 
     # Sincronizar con el remoto (pull + push)
-    git pull --rebase origin main >> "$LOG_FILE" 2>&1
-    git push origin main >> "$LOG_FILE" 2>&1
+    git stash >> "$LOG_FILE" 2>&1
+    git pull --rebase origin master >> "$LOG_FILE" 2>&1
+    git push origin master >> "$LOG_FILE" 2>&1
 
     if [ $? -eq 0 ]; then
         echo "[$(date '+%Y-%m-%d %H:%M:%S')] Cambios sincronizados con GitHub" >> "$LOG_FILE"
