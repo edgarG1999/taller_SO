@@ -2,3 +2,18 @@ Error: No se pudo acceder a /home/edgar/Escritorio/proyecto
 Error: No se pudo acceder a /home/edgar/Escritorio/proyecto
 [2025-04-11 09:26:01] Iniciando proceso de backup y commit...
 [2025-04-11 09:26:01] Backup creado: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411092601.tar.gz
+[master 610b2ee] Auto-commit 2025-04-11 09:26:01
+ 3 files changed, 31 insertions(+), 19 deletions(-)
+ create mode 100644 ejercicio_4/backup/backup_20250411092601.tar.gz
+ create mode 100644 ejercicio_4/backup/proyecto.log
+ mode change 100644 => 100755 ejercicio_4/backup_commit.sh
+Agent pid 5687
+/home/edgar/.ssh/id_rsa: No such file or directory
+error: no se puede pull con rebase: Tienes cambios sin marcar.
+error: Por favor, confírmalos o guárdalos.
+error: src refspec main no concuerda con ninguno
+error: falló el empuje de algunas referencias a 'github.com:edgarG1999/taller_SO.git'
+[2025-04-11 09:26:01] Error al sincronizar con GitHub
+[2025-04-11 09:26:01] Proceso completado. Estado: 0
+[2025-04-11 09:27:01] Iniciando proceso de backup y commit...
+[2025-04-11 09:27:02] Backup creado: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411092701.tar.gz
