@@ -183,3 +183,121 @@ To github.com:edgarG1999/taller_SO.git
 [2025-04-11 09:46:01] Iniciando proceso de backup y commit...
 tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094601.tar.gz: el fichero cambió mientras se estaba leyendo
 [2025-04-11 09:46:10] Error al crear el backup
+Desde github.com:edgarG1999/taller_SO
+ * branch            master     -> FETCH_HEAD
+error: no se puede rebase: Tienes cambios sin marcar.
+error: Por favor, confírmalos o guárdalos.
+[2025-04-11 09:49:01] Iniciando proceso de backup y commit...
+remote: error: Trace: 07f61c566b069b1aa4c9f3bb1d021a50e7720b94ac63df3c44bdfffc71310b11        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File ejercicio_4/backup/backup_20250411094601.tar.gz is 230.37 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To github.com:edgarG1999/taller_SO.git
+ ! [remote rejected] master -> master (pre-receive hook declined)
+error: falló el empuje de algunas referencias a 'github.com:edgarG1999/taller_SO.git'
+[2025-04-11 09:49:09] Error al sincronizar con GitHub
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094901.tar.gz: el fichero cambió mientras se estaba leyendo
+[2025-04-11 09:51:01] Iniciando proceso de backup y commit...
+[2025-04-11 09:52:01] Iniciando proceso de backup y commit...
+[2025-04-11 09:53:01] Iniciando proceso de backup y commit...
+[2025-04-11 09:54:01] Iniciando proceso de backup y commit...
+[2025-04-11 09:58:02] Iniciando proceso de backup y commit...
+[2025-04-11 09:59:02] Iniciando proceso de backup y commit...
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095902.tar.gz: el fichero cambió mientras se estaba leyendo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095101.tar.gz: el fichero cambió mientras se estaba leyendo
+[2025-04-11 10:00:02] Iniciando proceso de backup y commit...
+[2025-04-11 10:01:02] Iniciando proceso de backup y commit...
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095902.tar.gz: el fichero cambió mientras se estaba leyendo
+[2025-04-11 10:02:01] Iniciando proceso de backup y commit...
+[2025-04-11 10:04:01] Iniciando proceso de backup y commit...
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095902.tar.gz: el fichero cambió mientras se estaba leyendo
+[2025-04-11 10:05:01] Iniciando proceso de backup y commit...
+[2025-04-11 10:06:01] Iniciando proceso de backup y commit...
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095201.tar.gz: el fichero cambió mientras se estaba leyendo
+[2025-04-11 10:07:01] Iniciando proceso de backup y commit...
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095902.tar.gz: el fichero cambió mientras se estaba leyendo
+[2025-04-11 10:08:01] Iniciando proceso de backup y commit...
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup: el fichero cambió mientras se estaba leyendo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095902.tar.gz: el fichero cambió mientras se estaba leyendo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411100201.tar.gz: el fichero cambió mientras se estaba leyendo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095902.tar.gz: el fichero cambió mientras se estaba leyendo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095902.tar.gz: el fichero cambió mientras se estaba leyendo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095902.tar.gz: el fichero cambió mientras se estaba leyendo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095902.tar.gz: el fichero cambió mientras se estaba leyendo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095201.tar.gz: el fichero cambió mientras se estaba leyendo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095902.tar.gz: el fichero cambió mientras se estaba leyendo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411100201.tar.gz: el fichero cambió mientras se estaba leyendo
+[2025-04-11 10:44:01] Iniciando proceso de backup y commit...
+[2025-04-11 10:45:01] Iniciando proceso de backup y commit...
+[2025-04-11 10:46:02] Iniciando proceso de backup y commit...
+[2025-04-11 10:47:01] Iniciando proceso de backup y commit...
+[2025-04-11 10:48:01] Iniciando proceso de backup y commit...
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411093701.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094901.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094501.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411100601.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411093701.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094901.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411104401.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094601.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095201.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094401.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094201.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411092801.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411100833.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411100501.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095301.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411093901.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411093301.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411093801.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095101.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411100801.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411093601.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411093401.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095401.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094801.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411100102.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411100002.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411092701.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411100401.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094301.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411104501.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094101.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095802.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411092601.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411100701.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup: el fichero cambió mientras se estaba leyendo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094501.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411100601.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411093701.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094901.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411104401.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094601.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095201.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094401.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094201.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411092801.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411100833.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411100501.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095301.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411093901.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411104602.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411093301.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411093801.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095101.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411100801.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411093601.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411093401.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095401.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094801.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411100102.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411100002.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411092701.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411100401.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094301.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411104501.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094101.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411095802.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411092601.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411100701.tar.gz: El fichero fue borrado antes de leerlo
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup: el fichero cambió mientras se estaba leyendo
