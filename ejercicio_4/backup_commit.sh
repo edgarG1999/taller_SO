@@ -1,20 +1,5 @@
 #!/bin/bash
 
-LOCK_FILE="/tmp/backup_commit.lock"
-
-# Verificar si ya hay una instancia en ejecución
-if [ -f "$LOCK_FILE" ]; then
-    echo "[$(date '+%Y-%m-%d %H:%M:%S')] Error: El script ya está en ejecución." >> "$LOG_FILE"
-    exit 1
-fi
-
-# Crear archivo de bloqueo
-touch "$LOCK_FILE"
-
-# Eliminar el bloqueo al finalizar (incluso si falla)
-trap 'rm -f "$LOCK_FILE"' EXIT
-
-
 # Configuración
 PROJECT_DIR="/home/edgar/Escritorio/taller_SO/ejercicio_4"
 BACKUP_DIR="/home/edgar/Escritorio/taller_SO/ejercicio_4/backup"
