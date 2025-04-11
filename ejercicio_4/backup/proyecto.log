@@ -17,3 +17,16 @@ error: falló el empuje de algunas referencias a 'github.com:edgarG1999/taller_S
 [2025-04-11 09:26:01] Proceso completado. Estado: 0
 [2025-04-11 09:27:01] Iniciando proceso de backup y commit...
 [2025-04-11 09:27:02] Backup creado: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411092701.tar.gz
+[master 8b2e594] Auto-commit 2025-04-11 09:27:02
+ 2 files changed, 15 insertions(+)
+ create mode 100644 ejercicio_4/backup/backup_20250411092701.tar.gz
+Agent pid 5733
+/home/edgar/.ssh/id_rsa: No such file or directory
+error: no se puede pull con rebase: Tienes cambios sin marcar.
+error: Por favor, confírmalos o guárdalos.
+error: src refspec main no concuerda con ninguno
+error: falló el empuje de algunas referencias a 'github.com:edgarG1999/taller_SO.git'
+[2025-04-11 09:27:02] Error al sincronizar con GitHub
+[2025-04-11 09:27:02] Proceso completado. Estado: 0
+[2025-04-11 09:28:01] Iniciando proceso de backup y commit...
+[2025-04-11 09:28:01] Backup creado: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411092801.tar.gz
