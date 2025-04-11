@@ -43,3 +43,14 @@ error: falló el empuje de algunas referencias a 'github.com:edgarG1999/taller_S
 [2025-04-11 09:28:01] Proceso completado. Estado: 0
 [2025-04-11 09:33:01] Iniciando proceso de backup y commit...
 [2025-04-11 09:33:01] Backup creado: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411093301.tar.gz
+Desde github.com:edgarG1999/taller_SO
+ * branch            master     -> FETCH_HEAD
+error: no se puede rebase: Tienes cambios sin marcar.
+error: Por favor, confírmalos o guárdalos.
+To github.com:edgarG1999/taller_SO.git
+   95452bb..a4e8b7b  master -> master
+[2025-04-11 09:33:04] Cambios sincronizados con GitHub
+[2025-04-11 09:33:04] Proceso completado. Estado: 0
+[2025-04-11 09:34:01] Iniciando proceso de backup y commit...
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup: el fichero cambió mientras se estaba leyendo
+[2025-04-11 09:34:01] Error al crear el backup
