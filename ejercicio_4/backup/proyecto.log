@@ -169,3 +169,17 @@ To github.com:edgarG1999/taller_SO.git
 [2025-04-11 09:45:01] Iniciando proceso de backup y commit...
 tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094501.tar.gz: el fichero cambió mientras se estaba leyendo
 [2025-04-11 09:45:04] Error al crear el backup
+Desde github.com:edgarG1999/taller_SO
+ * branch            master     -> FETCH_HEAD
+error: no se puede rebase: Tienes cambios sin marcar.
+error: Por favor, confírmalos o guárdalos.
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File ejercicio_4/backup/backup_20250411094501.tar.gz is 76.67 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To github.com:edgarG1999/taller_SO.git
+   4d952fd..3b00b0b  master -> master
+[2025-04-11 09:45:23] Cambios sincronizados con GitHub
+[2025-04-11 09:45:23] Proceso completado. Estado: 0
+[2025-04-11 09:46:01] Iniciando proceso de backup y commit...
+tar: /home/edgar/Escritorio/taller_SO/ejercicio_4/backup/backup_20250411094601.tar.gz: el fichero cambió mientras se estaba leyendo
+[2025-04-11 09:46:10] Error al crear el backup
